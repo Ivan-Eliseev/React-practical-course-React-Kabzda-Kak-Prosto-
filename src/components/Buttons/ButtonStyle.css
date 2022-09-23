@@ -1,0 +1,15 @@
+.buttonON {
+    color: green;
+}
+
+.inputON {
+    border: green;
+}
+
+.buttonOF {
+    color: red;
+}
+
+.inputOF {
+    background-color: red;
+}
